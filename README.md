@@ -19,6 +19,7 @@
 - It's simple the modules that we are using they are doing all the things. 
 - We created a folder called commands and all the key commands are in there. 
 - On **Key** we are using *inquirer* to get the api key, which uses promise but we are not gonna use it. Instead we are using **async await**. 
+- **Show** on key we have a function show() on it we declared **KeyManager** object and we called the **getKey** with key from the **KeyManager**, then returned it. 
 
 ## ConfigStore
 
